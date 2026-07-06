@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Web-Slinger",
+    "layers": {
+      "background": "001_background.jpeg",
+      "foreground": "001_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#FFFFFF",
+        "minute": "#FFFFFF",
+        "second": "#E50914"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": false,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#FFFFFF",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": true,
+      "premium": false,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "spiderman",
+        "marvel",
+        "classic",
+        "hero"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Miles Morales: Brooklyn Vibe",
+    "layers": {
+      "background": "002_background.jpeg",
+      "foreground": "002_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#1A1A1A",
+        "minute": "#E50914",
+        "second": "#FFCC00"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": true,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": true,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#E50914",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": true,
+      "premium": false,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "miles morales",
+        "spiderverse",
+        "urban",
+        "graffiti"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Symbiote Suit",
+    "layers": {
+      "background": "003_background.jpeg",
+      "foreground": "003_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#FFFFFF",
+        "minute": "#FFFFFF",
+        "second": "#7F00FF"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": false,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#A0A0A0",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": false,
+      "premium": true,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "venom",
+        "black suit",
+        "dark",
+        "symbiote"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Spider-Man 2099",
+    "layers": {
+      "background": "004_background.jpeg",
+      "foreground": "004_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#00D2FF",
+        "minute": "#00D2FF",
+        "second": "#FF0055"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": true,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#FF0055",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": true,
+      "premium": false,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "miguel o hara",
+        "cyberpunk",
+        "future",
+        "neon"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Into the Spider-Verse",
+    "layers": {
+      "background": "005_background.jpeg",
+      "foreground": "005_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#FFFFFF",
+        "minute": "#FF007F",
+        "second": "#00FFFF"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": true,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": false,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#00FFFF",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": false,
+      "premium": false,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "gwen stacy",
+        "spidergwen",
+        "multiverse",
+        "comic"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Iron Spider Armour",
+    "layers": {
+      "background": "006_background.jpeg",
+      "foreground": "006_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#FFD700",
+        "minute": "#FFD700",
+        "second": "#B22222"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": false,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#FFD700",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": true,
+      "premium": true,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "avengers",
+        "tony stark",
+        "tech",
+        "armor"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "Noir Detective",
+    "layers": {
+      "background": "007_background.jpeg",
+      "foreground": "007_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#F0F0F0",
+        "minute": "#A0A0A0",
+        "second": "#333333"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": false,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#FFFFFF",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": false,
+      "premium": false,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "noir",
+        "monochrome",
+        "vintage",
+        "detective"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Webbed Rooftops",
+    "layers": {
+      "background": "008_background.jpeg",
+      "foreground": "008_foreground.png"
+    },
+    "clock": {
+      "enabled": true,
+      "format": "HH:mm",
+      "fontFamily": "SF Pro",
+      "fontSize": 32,
+      "letterSpacing": 4,
+      "alignment": "Center",
+      "colors": {
+        "hour": "#FFFFFF",
+        "minute": "#FFFFFF",
+        "second": "#FF4500"
+      },
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 22
+      },
+      "drawOverForeground": false,
+      "shadow": true,
+      "stroke": false,
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "angle": 0
+      },
+      "stretch": 1
+    },
+    "date": {
+      "enabled": true,
+      "format": "dd MMM yyyy",
+      "uppercase": false,
+      "fontFamily": "SF Pro",
+      "fontSize": 18,
+      "letterSpacing": 2,
+      "color": "#FFFFFF",
+      "opacity": 1,
+      "position": {
+        "x": 50,
+        "y": 10
+      }
+    },
+    "metadata": {
+      "featured": true,
+      "premium": false,
+      "author": "DepthWall",
+      "version": 1,
+      "tags": [
+        "cityscape",
+        "skyline",
+        "swinging",
+        "action"
+      ]
+    }
+  }
+]
