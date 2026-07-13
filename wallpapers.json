@@ -2,6 +2,8 @@
   {
     "id": 1,
     "title": "Classic Web-Slinger",
+    "previewUrl": "001_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "001_background.jpeg",
       "foreground": "001_foreground.png"
@@ -63,6 +65,8 @@
   {
     "id": 2,
     "title": "Miles Morales: Brooklyn Vibe",
+    "previewUrl": "002_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "002_background.jpeg",
       "foreground": "002_foreground.png"
@@ -124,6 +128,8 @@
   {
     "id": 3,
     "title": "Symbiote Suit",
+    "previewUrl": "003_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "003_background.jpeg",
       "foreground": "003_foreground.png"
@@ -185,6 +191,8 @@
   {
     "id": 4,
     "title": "Spider-Man 2099",
+    "previewUrl": "004_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "004_background.jpeg",
       "foreground": "004_foreground.png"
@@ -246,6 +254,8 @@
   {
     "id": 5,
     "title": "Into the Spider-Verse",
+    "previewUrl": "005_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "005_background.jpeg",
       "foreground": "005_foreground.png"
@@ -307,6 +317,8 @@
   {
     "id": 6,
     "title": "Iron Spider Armour",
+    "previewUrl": "006_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "006_background.jpeg",
       "foreground": "006_foreground.png"
@@ -367,6 +379,8 @@
   },
   {
     "id": 7,
+    "previewUrl": "007_background.jpeg",
+    "shouldLoop": true,
     "title": "Noir Detective",
     "layers": {
       "background": "007_background.jpeg",
@@ -429,6 +443,8 @@
   {
     "id": 8,
     "title": "Webbed Rooftops",
+    "previewUrl": "008_background.jpeg",
+    "shouldLoop": true,
     "layers": {
       "background": "008_background.jpeg",
       "foreground": "008_foreground.png"
